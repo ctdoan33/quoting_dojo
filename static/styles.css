@@ -1,0 +1,17 @@
+body{
+	text-align: center;
+}
+form{
+	display: inline-block;
+	text-align: left;
+}
+#add{
+	margin-right: 100px;
+}
+div{
+	display: inline-block;
+	text-align: left;
+}
+#meta{
+	margin-left: 100px;
+}
